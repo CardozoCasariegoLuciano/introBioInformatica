@@ -1,1 +1,28 @@
-primer desafio
+Desafío 1: 
+	¿Podrías buscar un ejemplo de macromoléculas que almacenen información sobre la "identidad" de un organismo dado?
+Respuesta:
+	una macromolecula que almacena informacion podria ser el ADN, que contiene las intrucciones genéticas de cada ser vivo
+
+Desafío 2:
+	Proponé una forma de expresar la información contenida en la estructura primaria de las proteínas usando tipos de datos de los lenguajes de programación que conocés.
+Respuesta:
+	Una forma podría ser como una cadena de texto (soportada en cualquier lenguaje) o un array de objetos que representen a los distintos aminoácidos
+
+Desafío 3:
+	¿En qué tipo de datos podrías expresar la información de la estructura terciaria proteica?
+Respuesta: la estructura terciaria se me ocurre que podría ser un array de arrays
+
+Desafío 4:
+	Rosalind Franklin es una científica muy relevante, que tuvo menos reconocimiento del merecido. ¿Cuáles fueron sus contribuciones en este campo? ¿Qué nos cuenta su historia acerca del mundo de la ciencia?
+respuesta:
+	Algunas de las contribuciones de Rosalind Franklin fueron 
+	- La imagen más clara del ADN mediante difracción de rayos X, revelando su estructura de doble hélice
+	- Base experimental para el modelo de Watson y Crick: Sus datos (usados sin su permiso) fueron cruciales para confirmar la estructura del ADN en 1953.
+	- Estudió la estructura del virus del mosaico del tabaco y mejoró técnicas para analizar materiales como el grafito.
+	
+	Su historia nos habla de desigualdades en el reconocimiento, su trabajo fue minimizado por el sexismo de la época
+
+Desafio 6:
+	¿Qué hace distintos a dos individuos de una especie? Propone una forma de corroborar tu respuesta realizando un diagrama de un posible método computacional para dicho fin.
+Respuesta:
+	Lo que hace distintos a dos individuos de una misma especie son pequeños cambios en el ADN, un posible método computacional para corroborar esto podría ser comparando el ADN de los 2 individuos y verificar que sean lo suficientemente iguales para ser de la misma especie, pero sutilmente distintos para que existan diferencias visibles desde lo macro 
